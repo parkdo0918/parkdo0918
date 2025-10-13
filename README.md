@@ -1,11 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=blur&color=auto&height=120&section=header&text=Park%20Dohyoen&fontSize=70)
 
-박도현
----
-📚 Major : Software <br>
-📩 Email : parkdo0918@gmail.com <br><br>
-
-
 Tech Stack
 ---
 ⚙️ Stacks <br>
